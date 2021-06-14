@@ -1,5 +1,5 @@
-# Spring-Boot-Service-Components
+# Spring-Boot-Filter
 
-An example of Service Components in Spring Boot.
+The Spring Boot application provides RESTful webservices where the servlet filter displays information about the state of the HTTP request and response.
 
-Using _@Service annotation_, a java class represents business logic which is seperated from _@RestController_ classes.
+
